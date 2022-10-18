@@ -1,0 +1,16 @@
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Robot	    KEYWORD2
+adelante	KEYWORD2
+atras	    KEYWORD2
+izquierda	KEYWORD2
+derecha	    KEYWORD2
+detener	    KEYWORD2
+SBit	    KEYWORD2
+led	        KEYWORD2
+dir         KEYWORD2
+
